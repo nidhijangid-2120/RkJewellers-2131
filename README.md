@@ -1,11 +1,11 @@
-<div align="center">
+# yudytey - RK Jewellers
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Enterprise Luxury Jewellery eCommerce Application & Artisan Management Portal for RK Jewellers.
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## Features
+- **Royal Jewellery Catalogue**: Handcrafted Polki, Kundan, 22K/18K Gold, and Solitaires
+- **8-Stage Artisan Workshop Tracking**: Order lifecycle from design to hallmarking and pickup
+- **Instant Gold/Silver Rate Calculator**: Real-time metal rate estimator with making charges and GST breakdown
+- **Bespoke Design Requests**: Custom CAD/sketch submission with budget and weight specifications
+- **Admin ERP Suite**: Inventory management, order fulfillment, metal rates override, and analytics
+- **PDF Tax Invoices**: Downloadable GST invoice and BIS Hallmark authenticity certificates

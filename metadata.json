@@ -1,0 +1,6 @@
+{
+  "name": "RK Jewellers",
+  "description": "Enterprise Luxury Jewellery eCommerce Application & Admin Portal for RK Jewellers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
